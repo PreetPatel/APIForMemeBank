@@ -1,0 +1,13 @@
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\bin\Debug\netcoreapp2.1\MSAMemeAPI.deps.json
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\bin\Debug\netcoreapp2.1\MSAMemeAPI.runtimeconfig.json
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\bin\Debug\netcoreapp2.1\MSAMemeAPI.runtimeconfig.dev.json
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\bin\Debug\netcoreapp2.1\MSAMemeAPI.dll
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\bin\Debug\netcoreapp2.1\MSAMemeAPI.pdb
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.RazorAssemblyInfo.cache
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.RazorAssemblyInfo.cs
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.AssemblyInfoInputs.cache
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.AssemblyInfo.cs
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.dll
+C:\Users\Preet\source\repos\MSAMemeAPI\MSAMemeAPI\obj\Debug\netcoreapp2.1\MSAMemeAPI.pdb
